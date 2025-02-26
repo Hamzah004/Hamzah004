@@ -1,5 +1,5 @@
 💫 About Me:
-👋 Hey! I’m Hamzah<br>💻 What I love: Building cool mobile apps in the best way possible<br>🚀 What I know: Flutter, Linux – always tweaking and improving my setup.<br>🔧 What I’m learning: DevOps, because, why not? I'm curious about how automation,<br>      CI/CD, and cloud infrastructure can optimize the software development process.<br>🌱 Always curious: Exploring new tech, finding better ways to do stuff.
+👋 Hey! I’m Hamzah<br>💻 What I love: Building cool mobile apps in the best way possible<br>🚀 What I know: Flutter, Linux – always tweaking and improving my setup.<br>🔧 trying to learn and improve everyday
 
 
 ## 🌐 Socials:
