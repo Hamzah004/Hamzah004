@@ -1,5 +1,5 @@
 💫 About Me:
-👋 Hey! I’m Hamzah<br>💻 What I love: Building cool mobile apps in the best way possible<br>🚀 What I know: Flutter, Linux – always tweaking and improving my setup.<br>🔧 trying to learn and improve everyday
+👋 Hey! I’m Hamzah<br>💻 What I love: Building cool mobile apps in the best way possible<br>🚀 What I know: Flutter and Dart, Java, C, linux<br>🔧 trying to learn and improve everyday
 
 
 ## 🌐 Socials:
@@ -17,5 +17,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hamzah004&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
