@@ -1,5 +1,5 @@
 💫 About Me:
-👋 Hey! I’m Hamzah<br>💻 What I love: Building cool mobile apps in the best way possible<br>🚀 What I know: Flutter and Dart, Java, C, linux<br>🔧 trying to learn and improve everyday
+👋 Hey! I’m Hamzah<br>💻 What I love: Building programs in the best way possible<br>🚀 What I know: Flutter and Dart, Java, C, linux<br>🔧 trying to learn and improve everyday
 
 
 ## 🌐 Socials:
