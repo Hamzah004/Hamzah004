@@ -36,22 +36,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-<div align="center">
-
-| Project | Stars | Description | Link |
-|:---:|:---:|:---|:---:|
-| **ShellWeREPLit** | ⭐ 3 | a custom, lightweight Unix shell interpreter developed in C, | [🔗 GitHub](https://github.com/Hamzah004/ShellWeREPLit) |
-| **snowengine** | ⭐ 3 | wallpaper engine for hyprland | [🔗 GitHub](https://github.com/Hamzah004/snowengine) |
-| **42core** | ⭐ 2 | 42 core curriculum projects | [🔗 GitHub](https://github.com/Hamzah004/42core) |
-| **dotfiles** | ⭐ 2 | my dotfiles | [🔗 GitHub](https://github.com/Hamzah004/dotfiles) |
-| **alone_in_the_dark** | ⭐ 2 | 42 project | [🔗 GitHub](https://github.com/Hamzah004/alone_in_the_dark) |
-
-</div>
-
----
-
 ## 💻 Tech Stack
 
 <div align="center">
