@@ -3,10 +3,10 @@ name: generate animation
 on:
   schedule:
     - cron: "0 */24 * * *"
-      workflow_dispatch:
-        push:
-          branches:
-            - main
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
@@ -22,7 +22,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-        -name: push sname files to output branch
+      - name: push snake files to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
