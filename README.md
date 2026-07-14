@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🌙 Hamzah Bani-Ata
+# Hi, I'm Hamzah Bani-Ata
 
-## 👋 42 Amman student | C, Java, Spring | Low-level & full-stack
+## Motivated Software Engineer passionate about Building Systems, low-level programming, and a Linux Geek. Always curious. Always ready to learn something new.
 
 </div>
 
