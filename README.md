@@ -6,16 +6,10 @@
 
 </div>
 
----
-
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats-eight-mu.vercel.app/api?username=Hamzah004&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-mu.vercel.app/api/top-langs/?username=Hamzah004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -24,7 +18,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <p align="center">
   <picture>
